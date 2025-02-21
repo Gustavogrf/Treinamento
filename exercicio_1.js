@@ -7,4 +7,4 @@ function sum(n1, n2) {
 
 sum(numberOne, numberTwo);
 let result = sum(numberOne, numberTwo);
-console.log(result);
+console.log(`o resultado da soma é ${result}`);
