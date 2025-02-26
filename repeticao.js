@@ -8,3 +8,12 @@ console.log(valores.length);
 for (let i = 0; i <= valores.length; i++) {
   console.log(valores[i]);
 }
+
+let i = 0;
+while (i < 10) {
+  if (i > valores.length) {
+    break;
+  }
+  console.log(`iteração ${i}`);
+  i++;
+}
