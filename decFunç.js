@@ -49,3 +49,11 @@ function calculeIdade(ano) {
 }
 
 calculeIdade(anoNascimento);
+
+function exibeDados (name , age , temCarteira , saldo ){
+  console.log(
+    `Pessoa 1 : Name = ${name} , age = ${age} , Tem carteira = ${temCarteira}, saldo = ${saldo}`
+  );
+}
+exibeDados('marina', 40 , true, 10000)
+exibeDados('bruna' , 30 , false , 20000)
