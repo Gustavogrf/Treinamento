@@ -57,3 +57,7 @@ function exibeDados (name , age , temCarteira , saldo ){
 }
 exibeDados('marina', 40 , true, 10000)
 exibeDados('bruna' , 30 , false , 20000)
+exibeDados('bruna' , 30 , false , 20000)
+exibeDados('bruna' , 30 , false , 20000)
+exibeDados('bruna' , 30 , false , 20000)
+exibeDados('bruna' , 30 , false , 20000)
